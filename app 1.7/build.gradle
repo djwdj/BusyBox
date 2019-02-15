@@ -1,0 +1,15 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.0"
+
+    defaultConfig {
+        applicationId "djwdj.busybox"
+        minSdkVersion 0
+        targetSdkVersion 26
+        versionCode 7
+        versionName "1.7"
+    }
+}
+
